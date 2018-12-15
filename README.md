@@ -6,7 +6,6 @@ first http brute force brute force any website we want
 git clone https://github.com/FDX100/GOD-Force.git
 cd GOD-Force
 python GOD-force.py
-https://www.youtube.com/watch?v=iN2fh6XTffk&t=4s
 ```
 ![sh](https://github.com/FDX100/GOD-Force/blob/master/intro0.png)
 ![sh](https://github.com/FDX100/GOD-Force/blob/master/intro.png)
