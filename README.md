@@ -1,6 +1,11 @@
 #### GOD-Force
 first http brute force brute force any website we want
 
+### requirements:
+```
+sudo apt-get install tor
+```
+
 ### Usage:
 ```
 git clone https://github.com/FDX100/GOD-Force.git
