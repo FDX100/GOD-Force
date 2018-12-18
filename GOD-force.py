@@ -54,7 +54,7 @@ choice = raw_input("[GOD#] >>> ")
 if choice == "1":
 
     website = raw_input('[GOD#] >>> Website Login page URL : ')
-    website_s = raw_input('[GOD#] >>> Website Redirect URL after login successfuly : ')
+    website_s = raw_input('[GOD#] >>> Website Redirect URL after login successfully : ')
     user = raw_input('[GOD#] >>> ID or Name of username input : ')
     passw = raw_input('[GOD#] >>> ID or Name of password input : ')
     email = raw_input("[GOD#] >>> Username or email : ")
@@ -83,7 +83,7 @@ if choice == "1":
 if choice == "2":
     os.system("sudo service tor start")
     website = raw_input('[GOD#] >>> Website Login page URL : ')
-    website_s = raw_input('[GOD#] >>> Website Redirect URL after login successfuly : ')
+    website_s = raw_input('[GOD#] >>> Website Redirect URL after login successfully : ')
     user = raw_input('[GOD#] >>> ID or Name of username input : ')
     passw = raw_input('[GOD#] >>> ID or Name of password input : ')
     email = raw_input("[GOD#] >>> Username or email : ")
@@ -113,7 +113,7 @@ if choice == "2":
     print('[GOD#] >>> Sorry Password not found ')
 if choice =="3":
     website = raw_input('[GOD#] >>> Website Login page URL : ')
-    website_s = raw_input('[GOD#] >>> Website Title  after login successfuly : ')
+    website_s = raw_input('[GOD#] >>> Website Title  after login successfully : ')
     user = raw_input('[GOD#] >>> ID or Name of username input : ')
     passw = raw_input('[GOD#] >>> ID or Name of password input : ')
     email = raw_input("[GOD#] >>> Username or email : ")
@@ -143,7 +143,7 @@ if choice =="3":
 if choice =="4":
     os.system("sudo service tor start")
     website = raw_input('[GOD#] >>> Website Login page URL : ')
-    website_s = raw_input('[GOD#] >>> Website Title  after login successfuly : ')
+    website_s = raw_input('[GOD#] >>> Website Title  after login successfully : ')
     user = raw_input('[GOD#] >>> ID or Name of username input : ')
     passw = raw_input('[GOD#] >>> ID or Name of password input : ')
     email = raw_input("[GOD#] >>> Username or email : ")
